@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ipo:home|Door43 (ipo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ipo|d43-ipo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ipo/archive/master.zip|d43-ipo.zip]]
+
+**Recent Changes**
+{{changes>ns = ipo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ipo|Ethnologue data]]
+
